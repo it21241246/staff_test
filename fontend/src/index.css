@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.sidebar{
+  background-color: #1B3B6F;
+}
+
+.adminbackground{
+  background-color: rgb(255, 255, 255);
+}
+
+.formbtn{
+  background-color: #1C7293;
+  border-color: #1C7293;
+  /* background-color: #0091c9;
+    border-color: #0091c9; */
+    color: white;
+
+}
